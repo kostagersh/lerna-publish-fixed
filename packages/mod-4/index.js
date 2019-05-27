@@ -1,3 +1,3 @@
 module.exports = {
-    fn: () => {console.log("test 1")}
+    fn: () => {console.log("test 2")}
 }
