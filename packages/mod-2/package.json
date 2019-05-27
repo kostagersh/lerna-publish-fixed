@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "main": "index.js",
   "dependencies": {
-    "lerna-publish-fixed-mod-3": "^0.0.1"
+    "lerna-publish-fixed-mod-3": "0.0.1",
+    "lerna-publish-fixed-mod-4": "0.0.1"
   },
   "license": "MIT"
 }
